@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealProjectB2", "..\RealProjectB2\RealProjectB2.csproj", "{30DE54FB-5D18-4FBF-B1D4-147D20EE40DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{0FB71830-4462-4249-97A5-E1D9E8598492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{D714FF61-1B4A-4929-8554-86D69F9F7020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DE54FB-5D18-4FBF-B1D4-147D20EE40DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DE54FB-5D18-4FBF-B1D4-147D20EE40DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DE54FB-5D18-4FBF-B1D4-147D20EE40DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DE54FB-5D18-4FBF-B1D4-147D20EE40DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB71830-4462-4249-97A5-E1D9E8598492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB71830-4462-4249-97A5-E1D9E8598492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB71830-4462-4249-97A5-E1D9E8598492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB71830-4462-4249-97A5-E1D9E8598492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D714FF61-1B4A-4929-8554-86D69F9F7020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D714FF61-1B4A-4929-8554-86D69F9F7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D714FF61-1B4A-4929-8554-86D69F9F7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D714FF61-1B4A-4929-8554-86D69F9F7020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA0BCEA-025F-4C45-95DC-D5777EC564DA}
+	EndGlobalSection
+EndGlobal

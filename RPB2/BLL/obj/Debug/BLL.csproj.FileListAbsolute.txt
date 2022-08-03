@@ -1,0 +1,12 @@
+D:\Class Evening\Project\RPB2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Evening\Project\RPB2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\BLL.dll
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\BLL.pdb
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\DAL.dll
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\Project\RPB2\BLL\bin\Debug\DAL.pdb
+D:\Class Evening\Project\RPB2\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Class Evening\Project\RPB2\BLL\obj\Debug\BLL.dll
+D:\Class Evening\Project\RPB2\BLL\obj\Debug\BLL.pdb

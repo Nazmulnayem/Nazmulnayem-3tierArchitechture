@@ -1,0 +1,10 @@
+D:\Class Evening\Project\RPB2\DAL\bin\Debug\DAL.dll
+D:\Class Evening\Project\RPB2\DAL\bin\Debug\DAL.pdb
+D:\Class Evening\Project\RPB2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Class Evening\Project\RPB2\DAL\obj\Debug\DAL.dll
+D:\Class Evening\Project\RPB2\DAL\obj\Debug\DAL.pdb
+D:\Class Evening\Project\RPB2\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\Project\RPB2\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\Project\RPB2\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\Project\RPB2\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Class Evening\Project\RPB2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
